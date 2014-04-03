@@ -87,8 +87,11 @@ Constructed with the following guidelines:
 * A new *minor* release indicates a normal change that maintains backwards compatibility.
 * A new *patch* release indicates a bugfix or small change which does not affect compatibility.
 * A new *build* release indicates this is a pre-release of the version.
+test it
 
 
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the [MIT license](LICENSE).
+
+
